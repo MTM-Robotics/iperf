@@ -31,3 +31,4 @@ examples/Makefile
 examples/mic
 examples/mis
 .vscode/
+NISOM_build/resources/NISOM/oecore-x86_64-armv7a-vfp-neon-toolchain-*
